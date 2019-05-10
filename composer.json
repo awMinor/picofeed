@@ -1,7 +1,7 @@
 {
-    "name": "jitamin/picofeed",
+    "name": "awminor/picofeed",
         "description": "picofeed",
-        "homepage": "https://github.com/jitamin/picofeed",
+        "homepage": "https://github.com/awminor/picofeed",
         "type": "library",
         "license": "MIT",
         "authors": [
