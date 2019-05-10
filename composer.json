@@ -13,7 +13,7 @@
             "php": ">=5.3.4"
         },
         "autoload": {
-            "psr-0": {"PicoFeed": "src/"}
+            "psr-0": {"picofeed": "src/"}
         },
         "require-dev": {
             "phpunit/phpunit": "4.8.*"
